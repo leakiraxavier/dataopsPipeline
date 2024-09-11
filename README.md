@@ -1,0 +1,2 @@
+# dataopsPipeline
+Projeto  do curso
